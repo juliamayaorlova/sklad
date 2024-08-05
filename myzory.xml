@@ -1,0 +1,17 @@
+<items date="2024-08-05T01:01:01">
+<item externalProductId="31010101010" externalId="31010101010" sku="31010101010" name="Товар Для Мои Зори 1" price="10000">
+<stocks>
+<stock externalWarehouseId="WarehouseZory1" quantity="1"/>
+</stocks>
+</item>
+<item externalProductId="31010101012" externalId="31010101012" sku="31010101012" name="Товар Для Мои Зори 2" price="11000">
+<stocks>
+<stock externalWarehouseId="WarehouseZory2" quantity="1"/>
+</stocks>
+</item>
+<item externalProductId="31010101013" externalId="31010101013" sku="31010101013" name="Товар Для Мои Зори 4" price="12000">
+<stocks>
+<stock externalWarehouseId="WarehouseZory13" quantity="1"/>
+</stocks>
+</item>
+</items>
