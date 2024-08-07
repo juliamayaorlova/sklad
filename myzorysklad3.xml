@@ -1,7 +1,7 @@
 <items date="2024-08-07T01:01:01">
 <item externalProductId="3111111123" externalId="3111111123" sku="" name="Товар Для Мои Зори 3" price="11000">
 <stocks>
-<stock externalWarehouseId="WarehouseZory3" quantity="10"/>
+<stock externalWarehouseId="WarehouseZory3" quantity="13"/>
 </stocks>
 </item>
 </items>
