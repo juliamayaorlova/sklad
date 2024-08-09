@@ -6,7 +6,7 @@
 </item>
 <item externalProductId="1313013130" externalId="1313013130" sku="1313013130" name="Товар 2 Румянцева" price="499000">
 <stocks>
-<stock externalWarehouseId="WarehouseRum" quantity="10"/>
+<stock externalWarehouseId="WarehouseRum" quantity="13"/>
 </stocks>
 </item>
 </items>
