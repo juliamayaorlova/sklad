@@ -1,0 +1,12 @@
+<items date="2024-08-10T01:01:01">
+<item externalProductId="31313131" externalId="31313131" sku="31313131" name="Товар 1 Румянцева" price="490000">
+<stocks>
+<stock externalWarehouseId="WarehouseRum" quantity="10"/>
+</stocks>
+</item>
+<item externalProductId="1313013130" externalId="1313013130" sku="1313013130" name="Товар 2 Румянцева" price="499000">
+<stocks>
+<stock externalWarehouseId="WarehouseRum" quantity="10"/>
+</stocks>
+</item>
+</items>
