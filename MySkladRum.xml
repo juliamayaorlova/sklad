@@ -9,4 +9,10 @@
 <stock externalWarehouseId="WarehouseRum" quantity="13"/>
 </stocks>
 </item>
+</item>
+<item externalProductId="99991011" externalId="99991011" sku="99991011" name="Товар 3 Румянцева" price="499000">
+<stocks>
+<stock externalWarehouseId="WarehouseRum" quantity="10"/>
+</stocks>
+</item>
 </items>
