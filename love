@@ -1,0 +1,7 @@
+<items date="2024-08-13T01:01:01">
+<item externalProductId="1314151719" externalId="1314151719" sku="ДляПриемки13141000" name="Товар 2 для Приемки и возврата" price="70000">
+<stocks>
+<stock externalWarehouseId="WarehouseLove" quantity="1"/>
+</stocks>
+</item>
+</items>
