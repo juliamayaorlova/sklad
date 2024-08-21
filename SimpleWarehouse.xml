@@ -1,0 +1,7 @@
+<items date="2024-08-21T01:01:01">
+<item externalProductId="999" externalId="999" sku="999" name="Товар для проверки наличияноменклатуры" price="10000">
+<stocks>
+<stock externalWarehouseId="SimpleWarehouse" quantity="1"/>
+</stocks>
+</item>
+</items>
