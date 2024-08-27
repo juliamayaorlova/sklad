@@ -1,10 +1,10 @@
 <items date="2024-08-26T10:40:00">
-<item externalProductId="Product01test1052" externalId="Product01test1052" name="Номенклатура первый с привязкой Тест-1052" price="1000">
+<item externalProductId="Product01test1052" externalId="Product01test1052" sku="Product01skutest1052" name="Номенклатура первый с привязкой Тест-1052" price="1000">
 <stocks>
 <stock externalWarehouseId="postsklad-1-1052" quantity="100"/>
 </stocks>
 </item>
-<item externalProductId="Product02test1052" externalId="Product02test1052" name="Номенклатура второй с привязкой Тест-1052" price="2000">
+<item externalProductId="Product02test1052" externalId="Product02test1052" sku="Product02skutest1052" name="Номенклатура второй с привязкой Тест-1052" price="2000">
 <stocks>
 <stock externalWarehouseId="postsklad-1-1052" quantity="100"/>
 </stocks>
