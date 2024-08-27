@@ -99,4 +99,54 @@
 <stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
 </stocks>
 </item>
+<item externalId="Product0221test1052" name="Номенклатура без привязки 21 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0222test1052" name="Номенклатура без привязки 22 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0223test1052" name="Номенклатура без привязки 23 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0224test1052" name="Номенклатура без привязки 24 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0225test1052" name="Номенклатура без привязки 25 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0226test1052" name="Номенклатура без привязки 26 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0227test1052" name="Номенклатура без привязки 27 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0228test1052" name="Номенклатура без привязки 28 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0229test1052" name="Номенклатура без привязки 29 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product0230test1052" name="Номенклатура без привязки 30 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1052" quantity="200"/>
+</stocks>
+</item>
 </items>
