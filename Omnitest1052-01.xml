@@ -1,9 +1,4 @@
 <items date="2024-09-11T10:40:00">
-<item externalProductId="Product010test1052" externalId="Product010test1052" sku="Product010skutest1052" name="Автоматической привязкой к каталогу Тест-1052 $%!?" price="1000">
-<stocks>
-<stock externalWarehouseId="postsklad-1-1052" quantity="100"/>
-</stocks>
-</item>
 <item externalId="Product01test1052" sku="Product01skutest1052" name="Номенклатура без привязки 1 Тест-1052" price="2000">
 <stocks>
 <stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
