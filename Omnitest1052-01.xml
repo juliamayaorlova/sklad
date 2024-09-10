@@ -1,17 +1,308 @@
-<items date="2024-08-26T10:40:00">
-<item externalProductId="Product01test1052" externalId="Product01test1052" sku="Product01skutest1052" name="Номенклатура первый с привязкой Тест-1052" price="1000">
+<items date="2024-08-28T10:40:00">
+<item externalProductId="Product010test1052" externalId="Product010test1052" sku="Product010skutest1052" name="Автоматической привязкой к каталогу Тест-1052 $%!?" price="1000">
 <stocks>
 <stock externalWarehouseId="postsklad-1-1052" quantity="100"/>
 </stocks>
 </item>
-<item externalProductId="Product02test1052" externalId="Product02test1052" sku="Product02skutest1052" name="Номенклатура второй с привязкой Тест-1052" price="2000">
+<item externalId="Product01test1052" sku="Product01skutest1052" name="Номенклатура без привязки 1 Тест-1052" price="2000">
 <stocks>
-<stock externalWarehouseId="postsklad-1-1052" quantity="100"/>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
 </stocks>
 </item>
-<item externalProductId="Product03test1052" externalId="Product03test1052" sku="031052" name="Уникальное номенклатурное название Тест-1052" price="3000">
+<item externalId="Product02test1052" name="Номенклатура без привязки 2 Тест-1052" price="2000">
 <stocks>
-<stock externalWarehouseId="postsklad-1-1052" quantity="100"/>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
 </stocks>
 </item>
+<item externalId="Product03test1052" name="Номенклатура без привязки 3 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product04test1052" name="Номенклатура без привязки 4 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product05test1052" name="Номенклатура без привязки 5 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product06test1052" name="Номенклатура без привязки 6 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product07test1052" name="Номенклатура без привязки 7 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product08test1052" name="Номенклатура без привязки 8 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product09test1052" name="Номенклатура без привязки 9 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product10test1052" name="Номенклатура без привязки 10 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product11test1052" name="Номенклатура без привязки 11 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product12test1052" name="Номенклатура без привязки 12 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product13test1052" name="Номенклатура без привязки 13 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product14test1052" name="Номенклатура без привязки 14 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product15test1052" name="Номенклатура без привязки 15 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product16test1052" name="Номенклатура без привязки 16 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product17test1052" name="Номенклатура без привязки 17 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product18test1052" name="Номенклатура без привязки 18 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product19test1052" name="Номенклатура без привязки 19 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product20test1052" name="Номенклатура без привязки 20 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product21test1052" name="Номенклатура без привязки 21 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product22test1052" name="Номенклатура без привязки 22 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product23test1052" name="Номенклатура без привязки 23 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product24test1052" name="Номенклатура без привязки 24 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product25test1052" name="Номенклатура без привязки 25 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product26test1052" name="Номенклатура без привязки 26 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product27test1052" name="Номенклатура без привязки 27 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product28test1052" name="Номенклатура без привязки 28 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product29test1052" name="Номенклатура без привязки 29 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product30test1052" name="Номенклатура без привязки 30 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product31test1052" name="Номенклатура без привязки 31 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product32test1052" name="Номенклатура без привязки 32 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product33test1052" name="Номенклатура без привязки 33 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product34test1052" name="Номенклатура без привязки 34 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product35test1052" name="Номенклатура без привязки 35 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product36test1052" name="Номенклатура без привязки 36 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product37test1052" name="Номенклатура без привязки 37 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product38test1052" name="Номенклатура без привязки 38 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product39test1052" name="Номенклатура без привязки 39 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product40test1052" name="Номенклатура без привязки 40 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product41test1052" name="Номенклатура без привязки 41 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product42test1052" name="Номенклатура без привязки 42 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product43test1052" name="Номенклатура без привязки 43 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product44test1052" name="Номенклатура без привязки 44 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product45test1052" name="Номенклатура без привязки 45 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product46test1052" name="Номенклатура без привязки 46 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product47test1052" name="Номенклатура без привязки 47 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product48test1052" name="Номенклатура без привязки 48 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product49test1052" name="Номенклатура без привязки 49 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product50test1052" name="Номенклатура без привязки 50 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product51test1052" name="Номенклатура без привязки 51 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product52test1052" name="Номенклатура без привязки 52 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product53test1052" name="Номенклатура без привязки 53 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product54test1052" name="Номенклатура без привязки 54 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product55test1052" name="Номенклатура без привязки 55 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product56test1052" name="Номенклатура без привязки 56 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product57test1052" name="Номенклатура без привязки 57 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product58test1052" name="Номенклатура без привязки 58 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product59test1052" name="Номенклатура без привязки 59 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+<item externalId="Product60test1052" name="Номенклатура без привязки 60 Тест-1052" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1-1052" quantity="200"/>
+</stocks>
+</item>
+</items>
 </items>
