@@ -1,7 +1,0 @@
-<items date="2024-08-22T11:40:00">
-<item externalProductId="Product2test1432" externalId="Product2test1432" name="Номенклатура для возврата 2 Тест-1432" price="2000">
-<stocks>
-<stock externalWarehouseId="postsklad-2-1432" quantity="222"/>
-</stocks>
-</item>
-</items>
