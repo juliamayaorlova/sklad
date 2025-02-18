@@ -1,0 +1,7 @@
+<items date="2025-02-18T14:00:00">
+<item externalProductId="Product1test180201" externalId="Product1test180201" name="Товар для бага 1802 с остатком" price="2300">
+<stocks>
+<stock externalWarehouseId="postsklad-dlyabaga" quantity="300"/>
+</stocks>
+</item>
+</items>
