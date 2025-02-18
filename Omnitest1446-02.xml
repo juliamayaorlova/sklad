@@ -3,5 +3,9 @@
 <stocks>
 <stock externalWarehouseId="postsklad-2-1446" quantity="200"/>
 </stocks>
+<item externalProductId="Product02test1446" externalId="Product02test1446" name="Товар 2 для возврата 2 Тест-1446" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1446" quantity="200"/>
+</stocks>
 </item>
 </items>
