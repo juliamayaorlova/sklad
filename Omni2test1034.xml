@@ -1,15 +1,15 @@
 <items date="2024-08-08T18:00:00">
-<item externalProductId="20022025180910341" externalId="20022025180910341" name="Товар 1 Тест-1034" price="500">
+<item externalProductId="20022025101" externalId="20022025101" name="Товар 1 Тест-1034" price="500">
 <stocks>
 <stock externalWarehouseId="skladtest1034" quantity="333"/>
 </stocks>
 </item>
-<item externalProductId="20022025180910342" externalId="20022025180910342" sku ="sku21034" name="Новый Товар 2 Тест-1034" price="1700">
+<item externalProductId="20022025102" externalId="20022025102" sku ="sku21034" name="Новый Товар 2 Тест-1034" price="1700">
 <stocks>
 <stock externalWarehouseId="skladtest1034" quantity="888"/>
 </stocks>
 </item>
-<item externalProductId="20022025180910343" externalId="20022025180910343" sku ="sku31034" name="Товар 3 Тест-1034" price="2700">
+<item externalProductId="20022025103" externalId="20022025103" sku ="sku31034" name="Товар 3 Тест-1034" price="2700">
 <stocks>
 <stock externalWarehouseId="skladtest1034" quantity="222"/>
 </stocks>
