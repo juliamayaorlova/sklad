@@ -4,7 +4,7 @@
 <stock externalWarehouseId="postsklad-10304" quantity="333"/>
 </stocks>
 </item>
-<item externalProductId="20022025103402" externalId="" sku ="sku3103402" name="Новый Товар 2 Тест-1034" price="600">
+<item externalProductId="20022025103402" externalId="" sku ="sku3103402" name="Новый Товар 20 Тест-1034" price="600">
 <stocks>
 <stock externalWarehouseId="postsklad-10304" quantity="888"/>
 </stocks>
