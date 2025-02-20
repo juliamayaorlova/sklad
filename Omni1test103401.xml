@@ -1,0 +1,12 @@
+<items date="2024-08-08T18:00:00">
+<item externalProductId="20022025103401" externalId="20022025103401" name="Товар 10341 Тест-1034" price="500">
+<stocks>
+<stock externalWarehouseId="postsklad-10304" quantity="333"/>
+</stocks>
+</item>
+<item externalProductId="20022025103402" externalId="20022025103402" name="Товар 2 Тест-1034" price="700">
+<stocks>
+<stock externalWarehouseId="postsklad-10304" quantity="999"/>
+</stocks>
+</item>
+</items>
