@@ -24,4 +24,9 @@
       <stock externalWarehouseId="postsklad-1044" quantity="25"/>
     </stocks>
   </item>
+  <item externalId="Product06test1044" name="Номенклатура не связанного товара 6 Test-1086" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1044" quantity="25"/>
+    </stocks>
+  </item>
 </items>
