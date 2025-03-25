@@ -19,4 +19,9 @@
       <stock externalWarehouseId="postsklad-1045" quantity="25"/>
     </stocks>
   </item>
+    <item externalId="Product05test1045" name="Номенклатура для создания товара 02 Test-1045" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1045" quantity="25"/>
+    </stocks>
+  </item>
 </items>
