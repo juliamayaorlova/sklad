@@ -1,25 +1,25 @@
 <items date="2024-08-23T10:40:00">
-  <item externalProductId="Product0102test1044" externalId="Product0102test1044" name="Номенклатура товара 1 Test-1044" price="1000">
+  <item externalProductId="Product0103test1044" externalId="Product0103test1044" name="Номенклатура товара 1 Test-1044" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-104403" quantity="5"/>
     </stocks>
   </item>  
-  <item externalId="Product0202test1044" name="Номенклатура не связанного товара 2 Test-1044" price="1000">
+  <item externalId="Product0203test1044" name="Номенклатура не связанного товара 2 Test-1044" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-104403" quantity="25"/>
     </stocks>
   </item>
-  <item externalId="Product0302test1044" name="Номенклатура не связанного товара 3 Test-1044" price="1000">
+  <item externalId="Product0303test1044" name="Номенклатура не связанного товара 3 Test-1044" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-104403" quantity="25"/>
     </stocks>
   </item>
-  <item externalId="Product0402test1044" name="Номенклатура не связанного товара 4 Test-1044" price="1000">
+  <item externalId="Product0403test1044" name="Номенклатура не связанного товара 4 Test-1044" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-104403" quantity="25"/>
     </stocks>
   </item>
-  <item externalId="Product0502test1044" externalId="Product0502test1044" name="Номенклатура не связанного товара 5 Test-1086" price="1000">
+  <item externalId="Product0503test1044" externalId="Product0503test1044" name="Номенклатура не связанного товара 5 Test-1086" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-104403" quantity="25"/>
     </stocks>
