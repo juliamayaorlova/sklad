@@ -1,0 +1,16 @@
+<items date="2024-08-23T10:40:00">
+  <item externalProductId="Product01test1046" externalId="Product01test1046" name="Номенклатура 01 товара - Товар 01 Test-1046" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1046" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalProductId="Product02test1046" externalId="Product02test1046" name="Номенклатура 02 товара - Товар 02 Test-1046" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1046" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalProductId="Product03test1046" externalId="Product03test1046" name="Номенклатура 03 товара - Товар 02 Test-1046" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1046" quantity="100"/>
+    </stocks>
+</items>
