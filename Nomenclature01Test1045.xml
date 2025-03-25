@@ -9,6 +9,11 @@
       <stock externalWarehouseId="postsklad-1045" quantity="50"/>
     </stocks>
   </item>
+    <item externalProductId="Product04test1045" externalId="Product04test1045" name="Номенклатура 04 добавлена мной чтобы была несвязанная" price="1050">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1045" quantity="50"/>
+    </stocks>
+  </item>
   <item externalId="Product03test1045" name="Номенклатура для создания товара Test-1045" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-1045" quantity="25"/>
