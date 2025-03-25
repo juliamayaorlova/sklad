@@ -19,7 +19,7 @@
       <stock externalWarehouseId="postsklad-104402" quantity="25"/>
     </stocks>
   </item>
-  <item externalId="Product0502test1044" name="Номенклатура не связанного товара 5 Test-1086" price="1000">
+  <item externalId="Product0502test1044" externalId="Product0502test1044" name="Номенклатура не связанного товара 5 Test-1086" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-104402" quantity="25"/>
     </stocks>
