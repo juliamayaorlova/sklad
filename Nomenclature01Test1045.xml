@@ -1,0 +1,17 @@
+<items date="2024-08-23T10:40:00">
+  <item externalProductId="Product01test1045" externalId="Product01test1045" name="Номенклатура 01 для связи с одним товаром по внешнему идентификатору Product01test1045" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1045" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalProductId="Product01test1045" externalId="Product01test1045" name="Номенклатура 02 для связи с одним товаром по внешнему идентификатору Product01test1045" price="1050">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1045" quantity="50"/>
+    </stocks>
+  </item>
+  <item externalId="Product03test1045" name="Номенклатура для создания товара Test-1045" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-1045" quantity="25"/>
+    </stocks>
+  </item>
+</items>
