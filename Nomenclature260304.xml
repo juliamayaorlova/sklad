@@ -14,7 +14,7 @@
       <stock externalWarehouseId="postsklad-26030401" quantity="100"/>
     </stocks>
   </item>
-    <item externalProductId="Product04test260304" externalId="Product04test260304" name="Для создание через связывание Номенклатура не связанного - Товар 03 Test-260304" price="1000">
+    <item externalProductId="Product04test260305" externalId="Product04test260305" name="Для создание через связывание Номенклатура не связанного - Товар 03 Test-260304" price="1000">
     <stocks>
       <stock externalWarehouseId="postsklad-26030401" quantity="100"/>
     </stocks>
