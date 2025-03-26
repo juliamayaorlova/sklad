@@ -1,0 +1,17 @@
+<items date="2025-03-20T10:40:00">
+  <item externalProductId="Product01test260302" externalId="Product01test260302" name="Связанная сразу Номенклатура 01 товара - Товар 01 Test-260302" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-260302" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalProductId="Product02test260302" externalId="Product02test260302" name="Товар создан позже Номенклатура 02 товара - Товар 02 Test-260302" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-260302" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalProductId="Product03test260302" externalId="Product03test260302" name="Товар создан при привязывании позже Номенклатура 03 товара - Товар 03 Test-260302" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-260302" quantity="100"/>
+    </stocks>
+  </item>
+</item>
