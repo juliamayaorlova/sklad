@@ -1,0 +1,17 @@
+<items date="2024-08-23T10:40:00">
+  <item externalProductId="Product01test260304" externalId="Product01test260304" name="Связанная сразу Номенклатура 01 товара - Товар 01 Test-260304" price="1100">
+    <stocks>
+      <stock externalWarehouseId="postsklad-26030401" quantity="100"/>
+    </stocks>
+  </item>  
+  <item externalProductId="Product02test260304" externalId="Product02test260304" name="Для создания Номенклатура не связанного товара - Товар 02 Test-260304" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-26030401" quantity="100"/>
+    </stocks>
+  </item>
+  <item externalProductId="Product03test260304" externalId="Product03test260304" name="Для создание через связывание Номенклатура не связанного - Товар 03 Test-260304" price="1000">
+    <stocks>
+      <stock externalWarehouseId="postsklad-26030401" quantity="100"/>
+    </stocks>
+  </item>
+</items>
