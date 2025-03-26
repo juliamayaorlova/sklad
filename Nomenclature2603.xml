@@ -9,7 +9,7 @@
       <stock externalWarehouseId="postsklad-2603" quantity="100"/>
     </stocks>
   </item>
-   <item externalProductId="Product03test2603" externalId="Product03test2603" name="Товар создан при привязывании позже Номенклатура 03 товара - Товар 03 Test-2603" price="1100">
+  <item externalProductId="Product03test2603" externalId="Product03test2603" name="Товар создан при привязывании позже Номенклатура 03 товара - Товар 03 Test-2603" price="1100">
     <stocks>
       <stock externalWarehouseId="postsklad-2603" quantity="100"/>
     </stocks>
