@@ -1,0 +1,17 @@
+<items date="2025-04-25T17:00:00">
+<item externalProductId="2504202501012753" externalId="2504202501012753" name="Номенклатура 01 Тест-2753" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-2753" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="2504202502022753" externalId="2504202502022753" name="Номенклатура 02 Тест-2753" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-2753" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="2504202503032753" externalId="2504202503032753" name="Номенклатура 03 Тест-2753" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-2753" quantity="100"/>
+</stocks>
+</item>
+</items>
