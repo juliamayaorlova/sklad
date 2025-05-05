@@ -1,7 +1,0 @@
-<items date="2024-08-19T11:40:00">
-<item externalProductId="Product3test1306" externalId="Product3test1306" name="Номенклатура для приемки 3 Тест-1306" price="3000">
-<stocks>
-<stock externalWarehouseId="postsklad-3-1306" quantity="333"/>
-</stocks>
-</item>
-</items>
