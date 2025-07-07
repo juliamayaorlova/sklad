@@ -1,0 +1,7 @@
+<items date="2025-07-07T14:50:00">
+<item externalProductId="bbbb2928" externalId="bbbb2928" name="Номенклатура постащика для бага 2928" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2928bag" quantity="222"/>
+</stocks>
+</item>
+</items>
