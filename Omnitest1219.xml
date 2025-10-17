@@ -4,4 +4,10 @@
 <stock externalWarehouseId="postsklad-1219" quantity="1219"/>
 </stocks>
 </item>
+  <item externalProductId="13082024164412192" externalId="13082024164412192" name="Номенклатура для приемки 2 Тест-1219" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad2-1219" quantity="12192"/>
+</stocks>
+</item>
 </items>
+
