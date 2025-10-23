@@ -1,0 +1,7 @@
+<items date="2024-08-21T14:50:00">
+<item externalProductId="Product02test1380" externalId="Product02test1380" name="Номенклатура 2 для возврата Тест-1380" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-2-1380" quantity="222"/>
+</stocks>
+</item>
+</items>
