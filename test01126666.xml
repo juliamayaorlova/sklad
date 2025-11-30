@@ -1,0 +1,12 @@
+<items date="2025-12-01T00:59:00">
+<item externalProductId="Cod01-0112666666" externalId="Cod01-0112666666" name="Номенклатура товара 01 1 декабря Румянцева" price="4000">
+<stocks>
+<stock externalWarehouseId="postsklad-01126666" quantity="200"/>
+</stocks>
+</item>
+<item externalProductId="Cod02-0112666666" externalId="Cod02-0112666666" name="Номенклатура товара 02 1 декабря Румянцева" price="29000">
+<stocks>
+<stock externalWarehouseId="postsklad-01126666" quantity="200"/>
+</stocks>
+</item>
+</items>
