@@ -1,0 +1,20 @@
+<items date="2024-08-08T15:00:00">
+<item externalProductId="08082024152310331" externalId="08082024152310331" name="Товар 1 Тест-1033" price="1500">
+<stocks>
+<stock externalWarehouseId="sklad1test1033" quantity="300"/>
+<stock externalWarehouseId="sklad2test1033" quantity="300"/>
+</stocks>
+</item>
+<item externalProductId="08082024152310332" externalId="08082024152310332" name="Товар 2 Тест-1033" price="2100">
+<stocks>
+<stock externalWarehouseId="sklad1test1033" quantity="500"/>
+<stock externalWarehouseId="sklad2test1033" quantity="450"/>
+</stocks>
+</item>
+<item externalId="08082024152310333" name="Товар 3 Тест-1033" price="5000">
+<stocks>
+<stock externalWarehouseId="sklad1test1033" quantity="900"/>
+<stock externalWarehouseId="sklad2test1033" quantity="500"/>
+</stocks>
+</item>
+</items>
