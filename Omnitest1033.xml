@@ -1,4 +1,4 @@
-<items date="2024-08-08T15:00:00">
+<items date="2025-01-05T15:00:00">
 <item externalProductId="08082024152310331" externalId="08082024152310331" name="Товар 1 Тест-1033" price="1500">
 <stocks>
 <stock externalWarehouseId="sklad1test10333" quantity="300"/>
@@ -18,3 +18,4 @@
 </stocks>
 </item>
 </items>
+
