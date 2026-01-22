@@ -1,0 +1,12 @@
+<items date="2024-08-14T14:40:00">
+<item externalProductId="Product01test1221" externalId="Product01test1221" name="Номенклатура 1 для приемки Тест-1221" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-1221" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="Product02test1221" externalId="Product02test1221" name="Номенклатура 2 для приемки Тест-1221" price="2000">
+<stocks>
+<stock externalWarehouseId="postsklad-1221" quantity="200"/>
+</stocks>
+</item>
+</items>
