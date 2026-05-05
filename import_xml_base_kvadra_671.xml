@@ -17,6 +17,8 @@
       <category id="28742577" >Аксессуары KVADRA</category>
     
       <category id="29555602" >Ноутбуки KVADRA</category>
+          
+      <category id="29555602" >Подарки KVADRA</category>
     
     </categories>
     
@@ -28,20 +30,20 @@
 
 
 <offer type="vendor.model" available="true" id="3000021012"> 
-  <url>https://kvadra.tech/product_by_id/401514266</url>
-  <price>145000.0</price>
+  <url>https://квадра.рф/</url>
+  <price>160000.0</price>
   <currencyId>RUB</currencyId>
-  <categoryId>29299395</categoryId>
+  <categoryId>29299999</categoryId>
   
-  <vendor>KVADRA</vendor>
-  <vendorCode>TS11.03-1001-30</vendorCode>
+  <vendor>КВАДРА</vendor>
+  <vendorCode>TS11.03</vendorCode>
   <typePrefix>555</typePrefix>
-  <model>Планшет KVADRA_T</model>
-  <name>ПЛАНШЕТ KVADRA_T</name>
-  <description>ПЛАНШЕТ KVADRA_T / 64 ГБ / Wi-Fi + LTE / 3000021012 / 6 ГБ / false / kvadraOS Indigo</description>
-  <barcode>25282629555</barcode>
+  <model>KVADRA_T</model>
+  <name>Планшет KVADRA_T</name>
+  <description>Крутой планшет</description>
+  <barcode>88888888</barcode>
   <dimensions>29.6x19.2x4.6</dimensions>
-  <picture>https://static.insales-cdn.com/images/products/1/4217/323874937/33801978_CHW6LWW.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/3980/323874700/33801984_CHW6BR4WTX_managment.jpg</picture>
 
 
   <param name="insales_update_time">2024-07-08T05:31:47</param>
@@ -57,10 +59,10 @@
   <param name="ocs_product_key">"</param>
 
 
-  <param unit="мм" name="Длина в упаковке">192.0</param>
-  <param unit="мм" name="Ширина в упаковке">296.0</param>
-  <param unit="мм" name="Высота в упаковке">46.0</param>
-  <param unit="кг" name="Вес">1.0</param>
+<param unit="мм" name="Длина в упаковке">200.0</param>
+<param unit="мм" name="Ширина в упаковке">300.0</param>
+<param unit="мм" name="Высота в упаковке">50.0</param>
+<param unit="кг" name="Вес">2.0</param>
 
 
 
