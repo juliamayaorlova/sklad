@@ -17,12 +17,10 @@
       <category id="28742577" >Аксессуары KVADRA</category>
     
       <category id="29555602" >Ноутбуки KVADRA</category>
-          
-      <category id="29555602" >Подарки KVADRA</category>
     
     </categories>
     
-
+    <offers>
 
 <offer type="vendor.model" available="true" id="3000021012"> 
   <url>https://kvadra.tech/product_by_id/401514266</url>
@@ -39,7 +37,6 @@
   <barcode>25282629555</barcode>
   <dimensions>29.6x19.2x4.6</dimensions>
   <picture>https://static.insales-cdn.com/images/products/1/4217/323874937/33801978_CHW6LWW.jpg</picture>
-
 
   <param name="insales_update_time">2024-07-08T05:31:47</param>
 
@@ -59,19 +56,7 @@
   <param unit="мм" name="Высота в упаковке">46.0</param>
   <param unit="кг" name="Вес">1.0</param>
 
-
-
-    
-
-    
-
 </offer>
-
-
-
-
-
-
 
 <offer type="vendor.model" available="false" id="3000022081"> 
   <url>https://kvadra.tech/product_by_id/401514266</url>
@@ -95,10 +80,7 @@
   <param unit="мм" name="Высота в упаковке">50.0</param>
   <param unit="кг" name="Вес">2.0</param>
 
-    
-
 </offer>
-
 
 <offer type="vendor.model" available="false" id="3000026686"> 
   <url>https://kvadra.tech/product_by_id/403211146</url>
@@ -116,8 +98,6 @@
   <weight>0.62</weight>
   <dimensions>190x27x305</dimensions>
   <picture>https://static.insales-cdn.com/images/products/1/3980/323874700/33801984_CHW6BR4WTX_managment.jpg</picture>
-
-
 
   <param name="insales_update_time">2024-07-08T05:31:47</param>
 
@@ -140,14 +120,7 @@
   <param unit="мм" name="Длина в упаковке">270</param>
   <param unit="мм" name="Ширина в упаковке">1900</param>
   <param unit="мм" name="Высота в упаковке">3050</param>
-
-
-    
-
-    
-
 </offer>
-
 
     </offers>
     <promos>
@@ -155,4 +128,3 @@
     </promos>
   </shop>
 </yml_catalog>
-
