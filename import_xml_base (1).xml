@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2024-07-08T06:31+0000">
+  <shop>
+    <name>Kvadra</name>
+    <company>OCS</company>
+    <url>https://kvadra.tech</url>
+    <platform>inSales</platform>
+    <currencies>
+    
+      <currency id="RUB" rate="1.0"  />
+    
+    </currencies>
+    <categories>
+    
+      <category id="29299395" >Планшеты KVADRA</category>
+    
+      <category id="28742577" >Аксессуары KVADRA</category>
+    
+      <category id="29555602" >Ноутбуки KVADRA</category>
+    
+    </categories>
+    
+    <offers>
+      
+
+
+
+
+
+<offer type="vendor.model" available="true" id="3000021012"> 
+  <url>https://kvadra.tech/product_by_id/401514266</url>
+  <price>145000.0</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>29299395</categoryId>
+  
+  <vendor>KVADRA</vendor>
+  <vendorCode>TS11.03-1001-30</vendorCode>
+  <typePrefix>555</typePrefix>
+  <model>Планшет KVADRA_T</model>
+  <name>ПЛАНШЕТ KVADRA_T</name>
+  <description>ПЛАНШЕТ KVADRA_T / 64 ГБ / Wi-Fi + LTE / 3000021012 / 6 ГБ / false / kvadraOS Indigo</description>
+  <barcode>25282629555</barcode>
+  <dimensions>29.6x19.2x4.6</dimensions>
+  <picture>https://static.insales-cdn.com/images/products/1/4217/323874937/33801978_CHW6LWW.jpg</picture>
+
+
+  <param name="insales_update_time">2024-07-08T05:31:47</param>
+
+  <param name="insales_product_id" m="1">401514266</param>
+  <param name="insales_variant_id"  m="1">666855037</param>
+  <param name="is_bundle"></param>
+  <param name="bundle_components_count">0</param>
+
+  <param name="vendor">KVADRA</param>
+  <param name="vendorCode">TS11.03-1001-303</param>
+  <param name="vendorCodeWithPrefix_4_AS">KVADRA_TS11.03-1001-30</param>
+  <param name="ocs_product_key">"</param>
+
+
+  <param unit="мм" name="Длина в упаковке">192.0</param>
+  <param unit="мм" name="Ширина в упаковке">296.0</param>
+  <param unit="мм" name="Высота в упаковке">46.0</param>
+  <param unit="кг" name="Вес">1.0</param>
+
+
+
+    
+
+    
+
+</offer>
+
+
+
+
+
+
+
+<offer type="vendor.model" available="false" id="3000022081"> 
+  <url>https://kvadra.tech/product_by_id/401514266</url>
+  <price>41990.0</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>29555602</categoryId>
+  
+  <vendor>KVADRA</vendor>
+  <vendorCode>Y23T01PO2423R_786071</vendorCode>
+  <typePrefix></typePrefix>
+  <model>Ноутбук KVADRA_T</model>
+  <name>НОУТБУК KVADRA_T</name>
+  <description>НОУТБУК KVADRA_T / Серенити / 128 ГБ / Wi-Fi + LTE / 3000022081 / 6 ГБ / true / kvadraOS Indigo</description>
+  <barcode>999887744555</barcode>
+  <weight>1.05</weight>
+  <dimensions>29.6x19.2x4.6</dimensions>
+  <picture>https://static.insales-cdn.com/images/products/1/3975/323874695/33801984_CHW6BR4WTX.jpg</picture>
+
+  <param unit="мм" name="Длина в упаковке">200.0</param>
+  <param unit="мм" name="Ширина в упаковке">300.0</param>
+  <param unit="мм" name="Высота в упаковке">50.0</param>
+  <param unit="кг" name="Вес">2.0</param>
+
+    
+
+</offer>
+
+
+<offer type="vendor.model" available="false" id="3000026686"> 
+  <url>https://kvadra.tech/product_by_id/403211146</url>
+  <price>9490.0</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>28742577</categoryId>
+  
+  <vendor>KVADRA</vendor>
+  <vendorCode>Y23T01ACC003A</vendorCode>
+  <typePrefix></typePrefix>
+  <model>Чехол с клавиатурой</model>
+  <name>ЧЕХОЛ с клавиатурой</name>
+  <description>ЧЕХОЛ с клавиатурой ЧЕХОЛ с клавиатурой ЧЕХОЛ с клавиатурой</description>
+  <barcode>3000026686555</barcode>
+  <weight>0.62</weight>
+  <dimensions>190x27x305</dimensions>
+  <picture>https://static.insales-cdn.com/images/products/1/3980/323874700/33801984_CHW6BR4WTX_managment.jpg</picture>
+
+
+
+  <param name="insales_update_time">2024-07-08T05:31:47</param>
+
+  <param name="insales_product_id" m="1">403211146</param>
+  <param name="insales_variant_id"  m="1">669624311</param>
+  <param name="is_bundle"></param>
+  <param name="bundle_components_count">0</param>
+
+  <param name="vendor"></param>
+  <param name="vendorCode">Y23T01ACC003A</param>
+  <param name="vendorCodeWithPrefix_4_AS">KVADRA_Y23T01ACC003A</param>
+  <param name="ocs_product_key">3000026686"</param>
+
+  <param name="vat_rate">20</param>
+  <param name="price">9490.0</param>
+  <param name="old_price"></param>
+  <param name="quantity">7.0</param>
+  <param name="barcode" m="1">3000026686</param>
+  <param unit="кг" name="Вес">0.62</param>
+  <param unit="мм" name="Длина в упаковке">270</param>
+  <param unit="мм" name="Ширина в упаковке">1900</param>
+  <param unit="мм" name="Высота в упаковке">3050</param>
+
+
+    
+
+    
+
+</offer>
+
+
+    </offers>
+    <promos>
+      
+    </promos>
+  </shop>
+</yml_catalog>
