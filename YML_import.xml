@@ -16,6 +16,7 @@
             <category id="1">Бытовая техника</category>
             <category id="10" parentId="1">Мелкая техника для кухни</category>
             <category id="101" parentId="10">Сэндвичницы и приборы для выпечки</category>
+            <category id="103" parentId="13">Новая категория</category>
         </categories>
         <delivery-options>
             <option cost="200" days="1"/>
