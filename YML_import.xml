@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-11-22T14:37:38+03:00">
+    <shop>
+        <name>BestSeller</name>
+        <company>Tne Best inc.</company>
+        <url>http://best.seller.ru</url>
+        <platform>uCoz</platform>
+        <version>1.0</version>
+        <agency>Технологичные решения</agency>
+        <email>example-email@gmail.com</email>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+            <currency id="USD" rate="60"/>
+        </currencies>
+        <categories>
+            <category id="1">Бытовая техника</category>
+            <category id="10" parentId="1">Мелкая техника для кухни</category>
+            <category id="101" parentId="10">Сэндвичницы и приборы для выпечки</category>
+        </categories>
+        <delivery-options>
+            <option cost="200" days="1"/>
+        </delivery-options>
+        <pickup-options>
+            <option cost="200" days="1"/>
+        </pickup-options>
+        <offers>
+            <offer id="901189" bid="80">
+                <name>Мороженица Brand</name>
+                <vendor>Brand</vendor>
+                <model>3811</model>   
+                <vendorCode>A1234567B</vendorCode>
+                <url>http://best.seller.ru/product_page.asp?pid=12345</url>
+                <price>8990</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>101</categoryId>
+                <picture>http://best.seller.ru/img/model_12345.jpg</picture>
+                <description>
+                    Это прибор, который придётся по вкусу всем любителям десертов и сладостей, ведь с его помощью вы сможете делать вкусное домашнее мороженое из натуральных ингредиентов.
+                </description>                
+                <country_of_origin>Китай</country_of_origin>
+                <barcode>4601546021298</barcode>
+                <param name="Цвет">Белый</param>
+                <param name="Гарантия производителя">2 года</param>
+                <param name="Беспроводной режим">нет</param>
+                <param name="Мощность, Вт">20</param>
+                <param unit="мм" name="Длина в упаковке">200.0</param>
+                <param unit="мм" name="Ширина в упаковке">300.0</param>
+                <param unit="мм" name="Высота в упаковке">50.0</param>
+                <param unit="кг" name="Вес">1.0</param>
+                <weight>3.6</weight>
+                <dimensions>20.1/20.551/22.5</dimensions>
+                <count>100</count>
+                </offer>
+            <offer id="902289" type="vendor.model" bid="60">
+                <name>Сэндвичница Brand</name>
+                <typePrefix>Сэндвичница</typePrefix>                            
+                <vendor>Brand</vendor>
+                <model>K220Y9</model>    
+                <vendorCode>A1234567B</vendorCode>
+                <url>http://best.seller.ru/product_page.asp?pid=12345</url>
+                <price>1099</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>101</categoryId>
+                <picture>http://best.seller.ru/img/device56789.jpg</picture>                
+                <description>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</description>
+                <country_of_origin>Россия</country_of_origin>
+                <barcode>9876543210</barcode>  
+                <param name="Цвет">черный</param>
+                <param name="Гарантия производителя">1 год</param>
+                <param name="Беспроводной режим">true</param>
+                <param name="Мощность, Вт">40</param>
+                <param unit="мм" name="Длина в упаковке">100.0</param>
+                <param unit="мм" name="Ширина в упаковке">200.0</param>
+                <param unit="мм" name="Высота в упаковке">40.0</param>
+                <param unit="кг" name="Вес">2.0</param>
+                <weight>1.03</weight>  
+                <dimensions>20.800/23.500/9.000</dimensions>
+                <count>23</count>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
