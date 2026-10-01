@@ -1,0 +1,6 @@
+<items date="2026-10-01T10:40:00">
+  <item externalProductId="Product20261001Notebook" externalId="Product20261001Notebook" name="ноутбук новый Поставлятор" price="45000">
+    <stocks>
+      <stock externalWarehouseId="postavlyator-sklad" quantity="10"/>
+    </stocks>
+</items>
