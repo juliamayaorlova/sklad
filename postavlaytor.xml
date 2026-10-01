@@ -3,4 +3,5 @@
     <stocks>
       <stock externalWarehouseId="postavlyator-sklad" quantity="10"/>
     </stocks>
+  </items>
 </items>
