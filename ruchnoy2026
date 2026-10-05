@@ -1,0 +1,7 @@
+<items date="2026-08-10T01:01:01">
+<item externalProductId="ruchnaya20261005" externalId="ruchnaya20261005" sku="ruchnaya20261005" name="Товар 1 Румянцева" price="700">
+<stocks>
+<stock externalWarehouseId="postsklad-20261005r" quantity="100"/>
+</stocks>
+</item>
+</items>
