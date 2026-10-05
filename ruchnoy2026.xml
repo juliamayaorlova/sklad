@@ -4,9 +4,4 @@
 <stock externalWarehouseId="postsklad-20261005r" quantity="100"/>
 </stocks>
 </item>
-<item externalProductId="ruchnaya2026100522" externalId="ruchnaya2026100522" sku="ruchnaya2026100522" name="Товар 2 Румянцева" price="700">
-<stocks>
-<stock externalWarehouseId="postsklad-20261005r" quantity="100"/>
-</stocks>
-</item>
 </items>
